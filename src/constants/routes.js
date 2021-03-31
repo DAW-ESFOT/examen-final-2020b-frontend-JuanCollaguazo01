@@ -5,7 +5,7 @@
 const publicRoutes = {
   LOGIN: "/login",
   REGISTER: "/register",
-  //ARTICLES: "/articles",
+  PRODUCTS: "/products",
   // USERS: "/usuarios",
   // USERS_ID: `/usuario/:id`,
   ABOUT: "/about",

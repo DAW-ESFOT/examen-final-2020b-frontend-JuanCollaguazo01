@@ -9,11 +9,18 @@ const Products = () => {
     return (
         <>
             <div>
-                <h2>
+                <h1>
+                    PRODUCTOS
+                </h1>
+                <h1>
                     Usuario: {user.user.name}
+                </h1>
+            </div>
+            <div>
+                <h2>
+                    <Table/>
                 </h2>
             </div>
-            <Table/>
         </>
     )
 }
